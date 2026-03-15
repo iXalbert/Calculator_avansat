@@ -1,0 +1,12 @@
+# Compiled binaries
+Calculato_avansat
+calculator_avansat
+calculator_avansat_2
+main_cli
+main.s
+
+# Object files
+*.o
+
+# macOS
+.DS_Store
